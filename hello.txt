@@ -1,2 +1,3 @@
 hello gitHub
 this is feature-branch edit
+feature-branch conflicting
